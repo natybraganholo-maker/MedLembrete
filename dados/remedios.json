@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "dipirona",
+    "dose": "1 compimido",
+    "horarios": [
+      "20:10"
+    ],
+    "instrucoes": "não",
+    "ativo": true,
+    "cadastrado_em": "2026-05-12 20:08"
+  }
+]
